@@ -1,0 +1,59 @@
+html
+
+    background-color: rgb(206, 206, 206);
+
+}
+
+h1{
+
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 220%;
+
+
+
+h2{
+
+    background-color: grey;
+    color: rgb(82, 82, 82);
+    text-decoration: underline;
+    font-size: 200%;
+
+}
+
+h3{
+
+    background-color: rgb(182, 181, 181);
+    color: grey;
+    font-style: italic;
+
+}
+
+p{
+
+    background-color: rgb(161, 160, 160);
+    text-align: justify
+    font-size: 110%;
+}
+
+strong{
+
+    colorrgb(59, 125, 211);
+    font-weight: bold;
+
+}
+
+spn{
+
+    color: rgb(59, 125, 211);
+}
+
+pre{
+
+    background-color: white;
+    text-align: right
+    font-weight: bold;
+    font-style: italic;
+    font-size: 125%;
+}
